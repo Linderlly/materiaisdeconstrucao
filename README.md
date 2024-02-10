@@ -1,2 +1,2 @@
 # materiasdeconstrucao
- Aplicação de materias de construção, para gerenciar clientes, funcionários, orçamento, vendas  e seus relatórios.
+ Aplicação de materiais de construção, para gerenciar clientes, funcionários, orçamento, vendas  e seus relatórios.
